@@ -1,5 +1,5 @@
 # Workshop
-Minggu-1
+Minggu-1 :
 LANGKAH – LANGKAH MENGINSTAL PYTHON DI WINDOWS 10
       Pada kesempatan kali ini, saya akan mencoba bagaimana memasang intrepreter atau wadah belajar python pada perangkat yang digunakan coder. Disini saya menggunakan sistem operasi windows 10.
 1.	Langkah pertama yang kita lakukan yaitu dengan mendownload python, disini saya menggunakan versi terbaru 3.7.0 (64 bit). Bisa di download pada link di bawah ini ; 
